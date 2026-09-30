@@ -38,6 +38,8 @@ Deep dives into regional distributions, top selling categories via funnel analys
 * **Data Sources:** Department Health Database 
 * **Data Modeling:** Star Schema / DAX calculations
 
+  
+
 # • Executive Summary of Loyalty Performance Analysis | Power BI
 
 An enterprise-grade end to end retail intelligence dashboard providing a rolling 12-month operational overview. This multi-page analytical tool evaluates core commercial metrics, tracking time series performance, customer loyalty penetration, geographic footprints, operational formats and Pareto customer segments.
@@ -56,7 +58,6 @@ Deploys product hierarchy matrices to track key category performance clusters, i
 ### 4. Behavioral Customer Segmentation Analysis
 Analyzes user engagement by cross referencing customer program tiers against transactional choices, including preferred checkout modes and primary shopper age demographics.
 
----
 
 ## 📈 Key Metrics & Features Tracked
 
@@ -81,12 +82,13 @@ Analyzes user engagement by cross referencing customer program tiers against tra
 * **Payment Ecosystem:** Dominated by digital methods, led by **UPI at 46.4%**, followed by Cash (**37.4%**) and Cards (**16.2%**).
 * **Age Vector:** Core shopping segment sits within the prime **26–35 age group (29.2%)** and the **36–45 group (27.8%)**.
 
----
+
 
 ## 🛠️ Tech Stack & Tools Used
 * **Business Intelligence:** Power BI Desktop / Service
 * **Data Engineering & Modeling:** Power Query, Star Schema Architecture, Advanced DAX (Time-Intelligence, Rolling Periods, Cumulative Pareto Totals)
 * **Data Hosting:** SQL Server / Cloud Data Warehouse
+
 
 
 
@@ -122,7 +124,7 @@ Features a deep dive performance table capturing YOY growth trends, city level d
 * **Top Performing Cities:** Highlights high-volume cities led by Noida (85M), Jaipur (76M) and Guwahati (68M).
 * **Sales Share Across Tiers:** Visualizes market breakdown by tiers with Tier 2 holding the majority share at **589.45M (52.17%)**.
 
----
+
 
 ## 🛠️ Tech Stack & Tools Used
 * **Business Intelligence:** Power BI
